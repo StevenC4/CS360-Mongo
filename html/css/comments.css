@@ -1,0 +1,4 @@
+table tr td {padding: 2px!important; text-align: center;}
+tr.commentsHeader {display: none;}
+tr.commentsHeader, tr.commentsHeader th, tr.comment, tr.comment td {border: 1px solid black;}
+table.comments {border-collapse: collapse;}

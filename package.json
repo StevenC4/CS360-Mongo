@@ -1,0 +1,45 @@
+{
+  "name": "stevenc4.server",
+  "version": "1.0.0",
+  "description": "This is a server for my CS360 Internet Programming project",
+  "main": "static.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nohup sudo node static.js >& output.node &"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/StevenC4/Lab-6-Node.js.git"
+  },
+  "keywords": [
+    "server"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StevenC4/Lab-6-Node.js/issues"
+  },
+  "homepage": "https://github.com/StevenC4/Lab-6-Node.js",
+  "gitHead": "ea7cd6652e5312ef28916a4bafd90d13fccb56c7",
+  "_id": "stevenc4.server@1.0.0",
+  "_shasum": "7b6192cddeb0464624cb57c0957e8b7bf23e9653",
+  "_from": "stevenc4.server@*",
+  "_npmVersion": "2.7.0",
+  "_nodeVersion": "0.10.21",
+  "_npmUser": {
+    "name": "stevenc4",
+    "email": "stevencarroll90@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "stevenc4",
+      "email": "stevencarroll90@gmail.com"
+    }
+  ],
+  "dist": {
+    "shasum": "7b6192cddeb0464624cb57c0957e8b7bf23e9653",
+    "tarball": "http://registry.npmjs.org/stevenc4.server/-/stevenc4.server-1.0.0.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/stevenc4.server/-/stevenc4.server-1.0.0.tgz"
+}

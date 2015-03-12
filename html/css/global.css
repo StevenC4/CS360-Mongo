@@ -1,0 +1,28 @@
+body {/*background-color:#A2FCFC;*/ background-image:url("../images/background.jpg"); font-family: Lato;}
+h1, h2 {text-align:center;}
+img {display: block;}
+table:not(#formTable) tr td:first-child {padding-right: 15px;}
+
+div#header {width:100%; display:block;}
+div#header ul {text-align: center;}
+div#header ul li {display: inline-block;}
+div#header ul li a {vertical-align: middle; padding: 15px 35px; text-decoration: none; color: blue; cursor: pointer;}
+div#header ul li a:hover {background-color:#A2F0FC;}
+
+.center {margin: 0 auto;}
+
+pre.center, form.center {text-align: center}
+
+img#profilePic {margin-bottom: 15px;}
+div#resumeExplanation {width: 75%;}
+h1#weatherTitle span.weatherLocation {color:red;}
+
+form#cityZipSearch {margin-top: 25px;}
+
+div.row {text-align: center; margin: 0 auto; max-width:81.25em;}
+table.forecast {display:inline-block; margin: 15px; border: 3px solid black;}
+
+table.center {margin: 0 auto;}
+
+ul.suggestions, ul.weather {padding-left: 0;}
+ul.suggestions li, ul.weather li {list-style-type: none;}
